@@ -251,14 +251,62 @@ body {
 .frame3{
     margin-bottom: 221px;
 }
-.title-frame4 {
+.title-footer {
     color: var(--ffffff, #FFF);
     font-family: Roboto;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
     line-height: normal;
+    margin-bottom: 33px;
 }
 .fa-regular, .fa-solid {
     color: #FFF;
+    color: var(--ffffff, #FFF);
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-bottom: 25px;
+}
+.dsc-footer {
+    color: var(--ffffff, #FFF);
+    font-family: Roboto;    
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    align-items: center;
+
+}
+.footer-text {
+    color: var(--ffffff, #FFF);
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: italic;
+    font-weight: 100;
+    line-height: normal;
+    opacity: 0.6;
+    width: 261px;
+}
+.flex-footer {
+    display: flex;
+    width: 1146px;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.email {
+    color: var(--ffffff, #FFF);
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding-bottom: 33px;
+}
+.fa-brands {
+    color:#FFF;
+    padding-right: 24px;
+    opacity: 0.6;
 }
